@@ -2,8 +2,7 @@ export class Postagem{
 
     id_teste: string;
 
-    titulo: string;
+    id_: string;
 
-    texto: string;
 
 }

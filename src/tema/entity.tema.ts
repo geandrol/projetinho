@@ -1,4 +1,5 @@
 export class Tema {
+
   @Id
   id: number;
   
@@ -6,5 +7,6 @@ export class Tema {
 
 
   }
+
 
     
