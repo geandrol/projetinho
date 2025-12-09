@@ -1,6 +1,6 @@
 export class Postagem{
 
-    id: string;
+    id_: string;
 
     titulo: string;
 

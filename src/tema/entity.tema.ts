@@ -1,5 +1,5 @@
 export class Tema {
-  id: number 
+  id_teste: string; 
     nome: string }
 
     
