@@ -1,5 +1,4 @@
 export class Tema {
-  id: number 
+  id: _b
     nome: string }
 
-    
