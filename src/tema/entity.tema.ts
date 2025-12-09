@@ -1,5 +1,10 @@
 export class Tema {
-  id: number 
-    nome: string }
+  @Id
+  id: number;
+  
+    nome: string 
+
+
+  }
 
     
